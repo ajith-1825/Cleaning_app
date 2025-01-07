@@ -122,7 +122,7 @@ export default function main(){
                             <li className="list-item"><span> Apartment and Condo Cleaning</span></li>
                             <li className="list-item"><span> In Cleaning</span></li>
                             <li className="list-item"><span> Move Out Cleaning</span></li>
-                            <li className="list-item"><span> Special Event Cleaning</span></li>
+                            <li className="list-item"><span> Special Event Cleaning.</span></li>
                         </ul>
                     </div>
                 </section>
